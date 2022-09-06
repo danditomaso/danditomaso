@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,git,css,html,md,golang"/>     
-    <img src="https://skillicons.dev/icons?i=vscode,azure,aws,docker,figma,firebase,jest"/>
+    <img display="block" src="https://skillicons.dev/icons?i=ts,git,css,html,md,golang"/>     
+    <img display="block" src="https://skillicons.dev/icons?i=vscode,azure,aws,docker,figma,firebase,jest"/>
   </a>
 </p>
 
