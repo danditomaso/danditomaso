@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hey 👋
+
+<h4 align="center"> Currently Learning Golang & Advanced TypeScript </h4>
+
+# ⛅Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,git,css,html,md,golang"/>     
+    <img src="https://skillicons.dev/icons?i=vscode,azure,aws,docker,figma,firebase,jest"/>
+  </a>
+</p>
+
+# 🌩 GitHub Stats
+
+<p align="center">
+  <a href="langstats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanDitomaso&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>     
+  </a>
+</p>
 
 <!--
 **danditomaso/danditomaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
