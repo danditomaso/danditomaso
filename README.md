@@ -1,6 +1,6 @@
 # Hey 👋
 
-<h4 align="center"> Currently Learning Go & PostgresQL </h4>
+<h4 align="center"> Currently Learning Go & PostgreSQL </h4>
 
 # ⛅Tech Stack
 
