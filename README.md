@@ -5,10 +5,9 @@
 # ⛅Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img display="block" src="https://skillicons.dev/icons?i=ts,git,css,html,md,golang"/>     
-    <img display="block" src="https://skillicons.dev/icons?i=vscode,azure,aws,docker,figma,firebase,jest"/>
-  </a>
+    <img display="block" src="https://skillicons.dev/icons?i=vscode,azure,aws,gcp, docker,figma,firebase,jest"/>
+  
 </p>
 
 # 🌩 GitHub Stats
