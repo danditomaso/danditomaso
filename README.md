@@ -2,17 +2,20 @@
 
 ### I'm a Software Engineer with expertise in
 
-- TypeScript
-- JavaScript
+- TypeScript/JavaScript
 - React
-- Node
-- AWS/GCP/Azure
-- Tailwind/SCSS/CSS
+- Node/Express
+- NextJS
+- Deno
+- AWS/GCP/Azure/Vercel
+- Tailwind/SCSS/CSS-In-JS/CSS
 - Docker
-- Firebase
+- SQL (PostGres) & NoSQL (MongoDB, Firebase)
+- GraphQL
+
 - and the broader JS/TS ecosystem
 
-I'm currently interested in exploring and learning Go, and functional programming more broadly.
+I'm currently learning strongly typed languages such as Go & Gleam, as well as functional programming more broadly.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=danditomaso&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/danditomaso/github-readme-stats)
 
