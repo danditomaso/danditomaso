@@ -14,7 +14,7 @@
 - Data Structures and Algorithms
 - and the broader ecosystem
 
-Currently, I'm immersing myself in the world of strongly typed languages such as Go and Gleam (compiles to Erlang), while also delving into the intricacies of functional programming.
+Currently, I'm immersing myself in the world of strongly typed languages such as Go and Gleam, while also delving into the intricacies of functional programming.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=danditomaso&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/danditomaso/github-readme-stats)
 
