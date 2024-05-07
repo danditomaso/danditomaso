@@ -1,9 +1,16 @@
-## Hi there, I'm Dan 👋
+<h1 align="center">Hi 👋, I'm Dan</h1>
+<h3 align="center">A passionate and experienced software developer from Toronto, Ontario.</h3>
 
-### I'm a Software Developer with expertise in:
-- TypeScript/JavaScript
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/danditomaso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danditomaso twitter" height="30" width="40" /></a>
+  </p>
+
+<h3 align="left">Some of my favourite tech:</h3>
+
+- TypeScript
 - React
-- Node/Express
+- ExpressJS
 - NextJS
 - Deno
 - AWS/GCP/Azure/Vercel
@@ -12,7 +19,7 @@
 - SQL (PostGres) & NoSQL (MongoDB, Firebase)
 - GraphQL
 - Data Structures and Algorithms
-- and the broader ecosystem
+...and the broader ecosystem
 
 Currently, I'm immersing myself in the world of strongly typed languages such as Go and Gleam, while also delving into the intricacies of functional programming.
 
