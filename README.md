@@ -1,19 +1,22 @@
-## Hi 👋, I'm Dan
-### A passionate and experienced software developer from Toronto, Ontario.
+### Hey there 👋
 
-#### Some of my favourite tech:
+I'm Dan Ditomaso. I'm a front-end engineer focused on React, Node, Typescript and everything in between.\
+My interests include rock climbing, ultimate frisbee and functional programming.
 
-- TypeScript
-- React
-- TailwindCSS
-- Next.js
-- AWS, GCP, Azure, Vercel
-- Node or Bun
-- Cypress & Vitest
-- SQL (PostgreSQL) & NoSQL (MongoDB, Firebase)
-- GraphQL
-...and the broader ecosystem
+### Skills ⌨
+- Front-end: **HTML, CSS, Sass, SEO, Typescript, Javascript, ES6, React, Redux, Next.js, Storybook, Jest, Vitest, Cypress**
+- Back-end: **Node.js, Express.js, REST, GraphQL, MongoDB, Firebase, PostgreSQL**
+- Deployment: **Docker, AWS, Azure, Azure, GCP, Vercel**
+- Familiar with: **Go, Kubernetes**
+- Curious about: **Threejs, Elixir, Gleam**
 
-Currently, I'm immersing myself in the world of strongly typed languages such as Go and Gleam, while also delving into the world of functional programming with my side projects.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danditomaso&show_icons=true&locale=en&layout=compact" alt="danditomaso most used languages" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danditomaso&show_icons=true&locale=en&layout=compact" alt="danditomaso most used languages" /></p>
+---
+
+📪 Email: [dan.ditomaso@gmail.com](mailto:dan.ditomaso@gmail.com)\
+💻 Portfolio: [danditomaso.com](https://danditomaso.com)\
+😺 Github: [github.com/danditomaso](https://github.com/DanDitomaso)\
+💼 Linkedin: [linkedin.com/in/danditomaso](https://www.linkedin.com/danditomaso?_l=en_US)
+
+ 
