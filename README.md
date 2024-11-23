@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Dan Ditomaso. I'm a front-end engineer focused on React, Node, Typescript and everything in between.\
+I'm Dan Ditomaso. I'm a front-end developer focused on React, Node, Typescript and everything in between.\
 My interests include rock climbing, ultimate frisbee and functional programming.
 
 ### Skills ⌨
