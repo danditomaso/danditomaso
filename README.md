@@ -1,5 +1,11 @@
 ### Hey there 👋
 
+
+
+> [!IMPORTANT]  
+I'm looking for new front-end opportunities.
+
+
 I'm Dan Ditomaso. I'm a front-end developer focused on React, Node, Typescript and everything in between.\
 My interests include rock climbing, ultimate frisbee and functional programming.
 
