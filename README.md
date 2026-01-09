@@ -14,7 +14,7 @@ My interests include rock climbing, ultimate frisbee and functional programming.
 - Back-end: **Node.js, Express.js, REST, GraphQL, MongoDB, Firebase, PostgreSQL**
 - Deployment: **Docker, AWS, Azure, Azure, GCP, Vercel**
 - Familiar with: **Go, Kubernetes**
-- Curious about: **Threejs, Elixir, Gleam**
+- Curious about: **EffectTS, Rust**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danditomaso&show_icons=true&locale=en&layout=compact" alt="danditomaso most used languages" />
 
