@@ -1,19 +1,19 @@
-### Hey there 👋
+## Thanks for stopping by 👋
+
+<br>
+
+> [!IMPORTANT]
+> Please reach out if you like what you see and would like to work together.
 
 
-
-> [!IMPORTANT]  
-I'm looking for new front-end opportunities.
-
-
-I'm Dan Ditomaso. I'm a front-end developer focused on React, Node, Typescript and everything in between.\
-My interests include rock climbing, ultimate frisbee and functional programming.
+I'm Dan Ditomaso. I'm a fullstack developer with a primary focus on the frontend. I specialize on on React, Node, Typescript and everything in between.
+My interests outside of computers are rock climbing, ultimate frisbee and functional programming.
 
 ### Skills ⌨
 - Front-end: **HTML, CSS, Sass, SEO, Typescript, Javascript, ES6, React, Redux, Next.js, Storybook, Jest, Vitest, Cypress**
 - Back-end: **Node.js, Express.js, REST, GraphQL, MongoDB, Firebase, PostgreSQL**
 - Deployment: **Docker, AWS, Azure, Azure, GCP, Vercel**
-- Familiar with: **Go, Kubernetes**
+- Familiar with: **Kubernetes**
 - Curious about: **EffectTS, Rust**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danditomaso&show_icons=true&locale=en&layout=compact" alt="danditomaso most used languages" />
