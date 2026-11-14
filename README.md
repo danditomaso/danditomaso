@@ -42,6 +42,8 @@ I redesigned [meshtastic.org](https://meshtastic.org) ([#2204](https://github.co
 
 Type-safe code from UI to API, interfaces that stay fast as apps grow, secure-by-default web apps, and tests and tooling that let teams ship with confidence. Lately I've been digging into [Effect](https://effect.website) and [Rust](https://rustfoundation.org).
 
+I use AI coding agents (Claude Code, Copilot) day to day and maintain the agent guidance for the Meshtastic web client ([`CLAUDE.md`](https://github.com/meshtastic/web/blob/main/CLAUDE.md)). I treat AI output like any other PR: typed, tested, and reviewed before it ships.
+
 **Languages & frameworks:** TypeScript · Python · React · Next.js · Node.js · Hono · Express · GraphQL · REST<br>
 **Data & testing:** PostgreSQL · MongoDB · SQLite · Redis · Vitest · Jest · Playwright · Cypress<br>
 **Cloud & delivery:** AWS · Google Cloud · Azure · Docker · Vercel · CI/CD · monorepos
