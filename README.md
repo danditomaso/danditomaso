@@ -1,19 +1,14 @@
-# Hey, I'm Dan 👋
+<a href="https://danditomaso.com"><img src="assets/cards/hero.svg" alt="Dan Ditomaso, senior full-stack engineer in Toronto, Canada. I lead the Meshtastic web client. Stack: React + TypeScript, Python, Effect. Website: danditomaso.com." width="100%"></a>
 
-**Senior full-stack engineer with a focus on the frontend.** I build web apps with **React and TypeScript**, along with any of the infrastructure behind them.
+<img src="assets/cards/telemetry.svg" alt="GitHub telemetry, updated 25 Nov 2026: 1,283 contributions in the last year, a 7-day current streak (contributed on 11 of the last 14 days), longest streak 9 days, 267 merged PRs in meshtastic/web as its #1 contributor, 33 public repos, 883 stars on meshtastic/web, 22 followers." width="100%">
 
-I lead the [Meshtastic web client](https://github.com/meshtastic/web), the open-source browser app for [Meshtastic](https://meshtastic.org): off-grid, encrypted messaging over affordable LoRa radios. No cell towers, no internet. The web client connects to radios over HTTP, Bluetooth and USB serial, straight from the browser.
+<img src="assets/cards/activity.svg" alt="Daily contributions over the last 6 months: 1,034 in total, peaking at 190 on Oct 17." width="100%">
 
-<a href="https://meshtastic.org"><img alt="Meshtastic" src="https://img.shields.io/badge/Meshtastic-off--grid_mesh-67EA94?style=flat-square&labelColor=1a1d24"></a>
-<a href="https://github.com/meshtastic/web/graphs/contributors"><img alt="Top contributor to meshtastic/web" src="https://img.shields.io/badge/meshtastic%2Fweb-%231_contributor-67EA94?style=flat-square&labelColor=1a1d24"></a>
-<a href="https://danditomaso.com"><img alt="danditomaso.com" src="https://img.shields.io/badge/danditomaso.com-portfolio-67EA94?style=flat-square&labelColor=1a1d24"></a>
+<img src="assets/cards/now.svg" alt="Now. Leading: Meshtastic web client, #1 contributor. Building: meshd, finding nearby radios over Bluetooth and mDNS. Learning: Effect, for typed errors and services end to end. Shipping with: Claude Code, with every PR typed, tested and reviewed." width="100%">
 
-## What I'm working on
+<img src="assets/cards/projects.svg" alt="Projects. Meshtastic Web (lead maintainer): off-grid, encrypted messaging over LoRa radios, straight from the browser. Built with React, TypeScript, Web Serial and Web Bluetooth; 267 merged PRs, 883 stars. meshd (experimental): lets the web client discover nearby radios over Bluetooth and mDNS." width="100%">
 
-| | |
-|---|---|
-| 📡 **[Meshtastic Web](https://github.com/meshtastic/web)** | The web client and its TypeScript packages for talking to Meshtastic radios. I'm its top contributor and lead the project. |
-| 🔎 **[meshd](https://github.com/danditomaso/meshtastic-meshd)** | A small Rust service that lets the web client discover nearby radios over Bluetooth and mDNS. *Experimental.* |
+<p align="center"><sub><a href="https://github.com/meshtastic/web">Meshtastic Web</a> · <a href="https://github.com/danditomaso/meshtastic-meshd">meshd</a> · <a href="https://danditomaso.com">danditomaso.com</a> · cards redrawn nightly by a GitHub Action</sub></p>
 
 ## Past work
 
