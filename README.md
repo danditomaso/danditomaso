@@ -1,12 +1,12 @@
 <a href="https://github-profile-views.dandcodes.workers.dev/go/site"><img src="assets/cards/hero.svg" alt="Dan Ditomaso, senior full-stack engineer in Toronto, Canada. I lead the Meshtastic web client. Stack: React + TypeScript, Python, Effect. Website: danditomaso.com." width="100%"></a>
 
-<img src="assets/cards/telemetry.svg" alt="GitHub telemetry, updated 27 Nov 2026: 1,354 contributions in the last year, a 9-day current streak (contributed on 13 of the last 14 days), longest streak 9 days, 276 merged PRs in meshtastic/web as its #1 contributor, 33 public repos, 883 stars on meshtastic/web, 22 followers." width="100%">
+<img src="assets/cards/telemetry.svg" alt="GitHub telemetry, updated 28 Nov 2026: 1,363 contributions in the last year, a 10-day current streak (contributed on 13 of the last 14 days), longest streak 10 days, 279 merged PRs in meshtastic/web as its #1 contributor, 33 public repos, 883 stars on meshtastic/web, 22 followers." width="100%">
 
-<img src="assets/cards/activity.svg" alt="Daily contributions over the last 6 months: 1,105 in total, peaking at 191 on Oct 17." width="100%">
+<img src="assets/cards/activity.svg" alt="Daily contributions over the last 6 months: 1,114 in total, peaking at 191 on Oct 17." width="100%">
 
 <img src="assets/cards/now.svg" alt="Now. Leading: Meshtastic web client, #1 contributor. Building: meshd, finding nearby radios over Bluetooth and mDNS. Learning: Effect, for typed errors and services end to end. Shipping with: Claude Code, with every PR typed, tested and reviewed." width="100%">
 
-<img src="assets/cards/projects.svg" alt="Projects. Meshtastic Web (lead maintainer): off-grid, encrypted messaging over LoRa radios, straight from the browser. Built with React, TypeScript, Web Serial and Web Bluetooth; 276 merged PRs, 883 stars. meshd (experimental): lets the web client discover nearby radios over Bluetooth and mDNS." width="100%">
+<img src="assets/cards/projects.svg" alt="Projects. Meshtastic Web (lead maintainer): off-grid, encrypted messaging over LoRa radios, straight from the browser. Built with React, TypeScript, Web Serial and Web Bluetooth; 279 merged PRs, 883 stars. meshd (experimental): lets the web client discover nearby radios over Bluetooth and mDNS." width="100%">
 
 <p align="center"><sub><a href="https://github-profile-views.dandcodes.workers.dev/go/meshtastic-web">Meshtastic Web</a> · <a href="https://github-profile-views.dandcodes.workers.dev/go/meshd">meshd</a> · <a href="https://github-profile-views.dandcodes.workers.dev/go/site">danditomaso.com</a> · cards redrawn nightly by a GitHub Action</sub></p>
 
